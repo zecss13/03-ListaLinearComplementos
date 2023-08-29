@@ -1,6 +1,6 @@
 # Lista Linear
 
-Faça um fork deste repositorio e implemente a função exlcuirElemento
+Faça um fork deste repositorio e implemente a função excluirElemento
 
 **excluirElemento:**
 * Pede para o usuario digitar um numero
